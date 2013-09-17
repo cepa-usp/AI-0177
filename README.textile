@@ -1,0 +1,8 @@
+h1. 1D rectangular coordinate
+
+One dimensional rectangular coordinate.
+
+h2. Dependencies
+
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
+* "CEPALib":https://github.com/cepa-usp/cepalib-java
